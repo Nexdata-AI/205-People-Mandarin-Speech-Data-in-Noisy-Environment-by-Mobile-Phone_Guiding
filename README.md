@@ -4,7 +4,7 @@
 ## Description
 205 People Accent Mandarin Speech Data in Noise Environment _ G. Speakers recorded their speech in accent mandarin in various daily scenarios in noisy environment. The recordings cover categories like in-car scene, smart home, smart speech assistant. It be used for speech recognition acoustics language model training and algorithm research, machine translation corpus construction, voiceprint recognition model training and algorithm research.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/192?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/192?source=Github
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
